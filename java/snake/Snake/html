@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>Quick Start Java Applet</title>
+</head>
+<body>
+    <center>
+        <applet
+            code="net.codejava.applet.SnakeGame.class"
+            archive="SnakeGame.jar"
+            width="125" height="125"
+            >
+        </applet>
+    </center>
+</body>
+</html>
