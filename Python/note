@@ -1,0 +1,8 @@
+DiemThi: thông tin dữ liệu về điểm thi của học sinh thành phố HCM trong kỳ thi trung học phổ thông năm 2020 trên trang http://diemthi.hcm.edu.vn/
+
+
+Các bước thực hiện:
+-B1: mở cmd sử dụng cú pháp curl để lấy toàn bộ file html trên web lưu vào file raw_data
+-B2: tiến hành loại bỏ các thẻ, thuộc tính 
+-B3: sắp xếp các dữ liệu thành 1 list, ghi vào file clean_data
+-B4: tiến hành vẽ biểu đồ bằng thư viện matplotlib
